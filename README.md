@@ -7,5 +7,8 @@ O início do projeto deu-se em Outubro/22, quando os docentes lançaram um desaf
 
 Em Dezembo/22, realizei a entrega do relatório final que explica a metodologia, a abordagem e minhas percepções sobre o projeto.
 
+![AGENDA DO PSICÓLOGO_pag4 apresentacao](https://user-images.githubusercontent.com/109831851/232762121-e2ff8e5c-7985-45fd-909f-47047283cdaf.png)
+Veja outras telas do protótipo no Anexo 1.
+
 :)
 
